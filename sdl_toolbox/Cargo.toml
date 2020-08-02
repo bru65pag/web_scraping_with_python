@@ -1,0 +1,11 @@
+[workspace]
+
+members = [
+	"lesson02",
+# using a Surface
+	"sdl_surface", 
+# using sprites to make a chicken run
+	"chicken_run",
+# init a vecto of structs
+	"init_vec_of_struct",
+]
